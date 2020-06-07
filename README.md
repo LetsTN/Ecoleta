@@ -2,10 +2,10 @@
 # Ecoleta
 > Aplicação desenvolvida durante a Next Level Week 1, da Rocket Seat
 
-[![Node Version][node-image]]
-[![TypeScript Version][typescript-image]]
-[![React Version][react-image]]
-[![ReactNative Version][react-native-image]]
+[![Node Version][node-image]][node-url]
+[![TypeScript Version][typescript-image]][typescript-url]
+[![React Version][react-image]][react-url]
+[![ReactNative Version][react-native-image]][react-native-url]
 
 ![](./mobile/src/assets/logo@3.png)
 
