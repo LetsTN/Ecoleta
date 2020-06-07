@@ -7,7 +7,7 @@
 [![React Version][react-image]][react-url]
 [![ReactNative Version][react-native-image]][react-native-url]
 
-![](./mobile/src/assets/logo@3.png)
+![](./logo.png)
 
 ## Antes de usar
 
