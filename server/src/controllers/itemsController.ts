@@ -9,7 +9,8 @@ class ItemsController{
             return {
                 id: item.id,
                 title: item.title,
-                image_url: `http://localhost:3333/uploads/${item.image}`
+                // put your IPv4 address here:
+                image_url: `http://192.168.25.237:3333/uploads/${item.image}`
             }
         });
 

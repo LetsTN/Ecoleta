@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:3333/',
+    // put your IPv4 address here:
+    baseURL: 'http://192.168.25.237:3333/',
 });
 
 export default api;
